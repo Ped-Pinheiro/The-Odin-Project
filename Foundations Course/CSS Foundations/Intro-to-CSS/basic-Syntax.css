@@ -1,0 +1,98 @@
+/* Usando Univernal Selector*/
+
+/* * {
+    color: purple;
+} */
+
+
+/* Usando Type Selector */
+
+/* div {
+    color: red;
+} */
+
+
+/* Usando Class Selector*/
+
+/* .alert-text {
+    color: blue;
+} */
+
+/* .severe-alert {
+    background-color: black;
+} */
+
+/* Usando multiplas classes, veja no HTML */
+
+
+/* Usando ID Selector */
+
+/* #title {
+    background-color: red;
+} */
+
+
+/* The Grouping Selector */
+
+/* .read, .unread {
+    color: white;
+    background-color: black;
+} */
+
+
+/* Chaining Selectors */
+
+/* .subsection.header {
+    color: red;
+} */
+
+
+/* Descendant Combinator */
+
+/* .ancestor .first-child {
+    color: aqua;
+}
+
+.ancestor .second-child{
+    color: brown;
+} */
+
+
+/* Color and background-color */
+
+/* Usando unidade HEX */
+/* p {
+    color: #1100ff;
+    background-color: black;
+} */
+
+/* Usando unidade RGB */
+/* p {
+   color: rgb(100, 0 , 127);
+   background-color: aquamarine;
+} */
+
+/* Usando unidade HSL */
+
+/* p {
+    color: hsl(15, 82%, 56%);
+    background-color: chartreuse;
+} */
+
+
+/* Typography basics and text-align */
+
+.read {
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+/* Image height and width */
+
+img {
+    height: auto;
+    width: 500px;
+}
